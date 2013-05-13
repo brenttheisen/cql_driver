@@ -57,8 +57,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  debugger
   cql_driver!
+  debugger
   growl
   guard-rspec
   rb-fsevent

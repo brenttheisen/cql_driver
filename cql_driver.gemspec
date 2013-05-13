@@ -4,7 +4,7 @@ require "cql_driver/version"
 
 Gem::Specification.new do |s|
   s.name        = "cql_driver"
-  s.version     = GemBoilerplate::VERSION
+  s.version     = CqlDriver::VERSION
   s.authors     = ["Brent Theisen"]
   s.email       = ["brent@bantamlabs.com"]
   s.summary     = %q{Ruby driver for the Cassandra CQL binary protocol}
